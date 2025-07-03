@@ -1,1 +1,3 @@
 ![Beige Minimalistic Project Summary Docs Banner](https://github.com/user-attachments/assets/9f502611-ebd0-4acb-94c6-676dfd014622)
+
+Hi! My name is Allison and I am currently studying data science at the University of Washington with the hopes of becoming a data scientist. I graduated UC Davis with a bachelors in statistics and a minor in computer science. I have gained a variety of experiences under my belt, from analyzing microbial patterns in Antarctic lakes to building an educational video game from stratch. My dream one day is to contribute my knowledge of machine learning methods to improve education methods, specifically in the EdTech field. 
