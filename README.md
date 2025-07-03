@@ -3,7 +3,7 @@
 ### 👋 Hi there, I'm Allison!
 
 I'm a data scientist-in-training with a passion for **data-driven projects, education, and human impact** ✨  
-Currently studying **Data Science @ University of Washington** and proud UC Davis alum with a **B.S. in Statistics + Minor in Computer Science**
+Currently studying for a masters in **Data Science @ University of Washington** and proud UC Davis alum with a **B.S. in Statistics + Minor in Computer Science**
 
 ---
 
