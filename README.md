@@ -26,9 +26,9 @@ Currently studying for a masters in **Data Science @ University of Washington** 
 - Researching scalable ML methods to personalize education  
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 Feel free to reach out:
-- [[LinkedIn](https://www.linkedin.com/in/allisonpeng/) 
+- [[LinkedIn](https://www.linkedin.com/in/allisonpeng/) ]
 - allisonpeng10@gmail.com
 
 
