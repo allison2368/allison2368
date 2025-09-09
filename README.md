@@ -3,7 +3,7 @@
 ### Hi I'm Allison!
 
 I'm passionate about data-driven projects, education, and human impact
-Currently pursuing a masters in Data Science @ University of Washington and UC Davis alum with a B.S. in Statistics + Minor in Computer Science**
+Currently pursuing a masters in Data Science @ University of Washington and UC Davis alum with a B.S. in Statistics + Minor in Computer Science
 
 ---
 
