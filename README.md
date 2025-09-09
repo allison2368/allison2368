@@ -2,8 +2,8 @@
 
 ### Hi I'm Allison!
 
-I'm passionate about **data-driven projects, education, and human impact**   
-Currently pursuing a masters in **Data Science @ University of Washington** and UC Davis alum with a **B.S. in Statistics + Minor in Computer Science**
+I'm passionate about data-driven projects, education, and human impact
+Currently pursuing a masters in Data Science @ University of Washington and UC Davis alum with a B.S. in Statistics + Minor in Computer Science**
 
 ---
 
@@ -11,7 +11,6 @@ Currently pursuing a masters in **Data Science @ University of Washington** and 
 - I’ve analyzed microbial patterns in Antarctic lakes using 3D modeling and virtual reality
 - Built an educational video game from scratch to empower rural energy education
 - I love exploring machine learning, especially in ways that can improve how we learn
-- Dreaming of making an impact in **EdTech**, using data-driven tools to help students thrive
 
 ---
 
