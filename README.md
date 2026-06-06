@@ -22,7 +22,8 @@ Currently pursuing a masters in Data Science @ University of Washington and UC D
 
 ### Currently Working On
 - Designing MoodMeter: an app that scans student's face and detects their current emotional state   
-- Researching ML applications to computer vision 
+- Designing a rag model that assists students in solving math equations
+- Researching rag models that use published papers as their database
 ---
 
 ### Connect
